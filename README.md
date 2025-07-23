@@ -24,5 +24,5 @@ Around 76%
            1       0.69      0.64      0.67        56
 
     accuracy                           0.77       143
-   macro avg       0.74      0.73      0.73       143
-weighted avg       0.75      0.75      0.75       143
+    macro avg       0.74      0.73      0.73       143
+    weighted avg    0.75      0.75      0.75       143
