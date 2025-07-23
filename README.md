@@ -17,7 +17,7 @@ An end-to-end machine learning project using logistic regression to predict surv
 ## Output Accuracy:
 Around 76%
 
-##Classification Report:
+## Classification Report:
                precision    recall  f1-score   support
 
            0       0.78      0.82      0.80        87
